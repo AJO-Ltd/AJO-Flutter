@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "378936623049",
+    "project_id": "ajo-app-3eobyc",
+    "storage_bucket": "ajo-app-3eobyc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378936623049:android:8fbfe9893480bce1117218",
+        "android_client_info": {
+          "package_name": "com.teamajo.ajo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378936623049-hfcd9jqr1ir8u871sjivnqsbqla1i5jg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMjET8vPFfyZRhHidlL7tewXS_-7Xsma0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378936623049-hfcd9jqr1ir8u871sjivnqsbqla1i5jg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "378936623049-2fenfr6i6d1t6fa6kgk1gbh7abmum4ln.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.teamajo.ajo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
